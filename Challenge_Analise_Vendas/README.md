@@ -1,8 +1,8 @@
-# Data Challenge 20210312
+Olá tudo bem?? Abaixo estão algumas das etapas solcitadas para este desafio.
 
-Olá tudo bem??
-Abaixo estão algumas das etapas solcitadas para este desafio.
+# Data Challenge: Análise de dados referente a vendas, análisando comportamento sazonal dos dados e realizando a projeção de vendas para um dado período.
 
+## [Parte 1](https://github.com/EZanghi/Portfolio_DataScience/tree/main/Challenge_Analise_Vendas/Parte1)
 ### Parte 1.1
 
 Segue em anexo o questionário com a primeira parte.
@@ -11,7 +11,7 @@ Segue em anexo o questionário com a primeira parte.
 
 Baseado na estrutura de dados apresentada, descreva os comandos SQL que você escreveria se a mesma estivesse numa estrutura de banco de dados.
 
-## Parte 2
+## [Parte 2](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/Solucoes_propostas.pdf)
 
 Imagine que você recebeu uma demanda para gerar indicadores do GPTW para o RH com pelo menos algumas visões como:
 
@@ -44,3 +44,26 @@ Para entregar um relatório de SLA (Prazo para entregar/concluir o serviço), er
 
 Para o cálculo do dia em que a Páscoa cairá, podemos utilizar a seguinte fórmula no Excel: `"=ARREDMULTB(DIA(MINUTO(A1/38)/2+56)&"/5"&"/"&A1;7)-34"` (considerando que o ano esteja na célula A1).
 Explique a lógica utilizada para o cálculo da Páscoa nessa fórmula, detalhando o que cada função faz no resultado esperado.
+
+---
+
+# Descrição dos dados referente a Parte 1:
+|Rótulo|Tipo do dado|Descrição
+|---|---|---
+|ID|Int64|- Chave única de registro da atividade
+|Data Criação|DatetTime64[ns]|- Data de criação da atividade
+|Status|Object|- Status da atividade: 'Em Aberto', 'Perdido', 'Ganho'
+|Proprietário|object|- Nome do vendedor que iniciou a atividade
+|Data Fechamento|DateTime64[ns]|- Data de fechamento (conclusão) da atividade
+|Atividades Concluídas|Int64|- Quantidade de atividades concluídas
+
+# Apresentação dos resultados obtidos:
+![Resultado questão 1](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/print_results/P1.png "Questão 1")
+![Resultado questão 2](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/print_results/P2.png "Questão 2")
+![Resultado questão 3](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/print_results/P3.png "Questão 3")
+![Resultado questão 4](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/print_results/P4.png "Questão 4")
+![Resultado questão 5](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/print_results/P5.png "Questão 5")
+![Resultado questão 6](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/print_results/P6.png "Questão 6")
+![Resultado questão 7](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/print_results/P7.png "Questão 7")
+![Resultado questão 8](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/print_results/P8.png "Questão 8")
+![Resultado questão 9](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/print_results/P9.png "Questão 9")
