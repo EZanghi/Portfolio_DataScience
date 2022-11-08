@@ -1,4 +1,4 @@
-Olá tudo bem?? Abaixo estão algumas das etapas solcitadas para este desafio.
+Olá tudo bem?? Abaixo estão algumas das etapas solicitadas para este desafio e seus resultados. EnJOY!!
 
 # Data Challenge: Análise de dados referente a vendas, análisando comportamento sazonal dos dados e realizando a projeção de vendas para um dado período.
 
@@ -57,7 +57,7 @@ Explique a lógica utilizada para o cálculo da Páscoa nessa fórmula, detalhan
 |Data Fechamento|DateTime64[ns]|- Data de fechamento (conclusão) da atividade
 |Atividades Concluídas|Int64|- Quantidade de atividades concluídas
 
-# Apresentação dos resultados obtidos:
+# Apresentação dos resultados obtidos na Parte 1:
 ![Resultado questão 1](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/print_results/P1.png "Questão 1")
 ![Resultado questão 2](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/print_results/P2.png "Questão 2")
 ![Resultado questão 3](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/print_results/P3.png "Questão 3")
@@ -67,3 +67,17 @@ Explique a lógica utilizada para o cálculo da Páscoa nessa fórmula, detalhan
 ![Resultado questão 7](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/print_results/P7.png "Questão 7")
 ![Resultado questão 8](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/print_results/P8.png "Questão 8")
 ![Resultado questão 9](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/print_results/P9.png "Questão 9")
+
+> Referente a parte 1.2 do desafio, foram desenvolvidos as consultas em SQL que estão presentes no notebook disponivel no [repositório](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/Parte1/analises.ipynb)
+OBS: Não foram realizados query para perguntas cuja resposta eram gráficos ou análises estatísticas
+---
+# Apresentação dos resultados obtidos na Parte 2:
+![Resultado Parte 2](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/print_results/P2.1.png "Parte 2")
+
+
+---
+# Apresentação dos resultados obtidos dos Extras:
+## Extra 1
+![Resultado desafios Extra 1](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/print_results/Pe1.png "Desafio Extra 1")
+## Extra 2 - Excel
+![Resultado desafios Extra 2 - Excel](https://github.com/EZanghi/Portfolio_DataScience/blob/main/Challenge_Analise_Vendas/print_results/Pe2.png "Desafio Extra 2")
