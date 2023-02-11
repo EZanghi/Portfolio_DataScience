@@ -14,16 +14,25 @@
 ---
 
 ## Conteúdo:
- - Planos de saúde por UF: 
+ - Perfil dos Planos de Saúde: 
    - Total de titulares
    - Total de Planos
-   - Qtd. Beneficiários por UF
-   - Qtd. Planos de saúde por UF/Cidade
    - Cadastro de novos planos por ano
- - Perfil dos beneficiários
-   - Distribuição de Beneficiários por Idade
-   - Distribuição anual do registro de novos beneficiários
-   - Distribuição do (Total beneficiários/Total planos Médicos/Total planos odontológicos) por Sexo
+   - Qtd. Operadoras por Modalidade
+   - Razão Social das Operadoras
+
+![Perfil dos Planos de Saúde](https://github.com/EZanghi/Portfolio_DataScience/blob/main/ANS_Planos_de_Saude/PERFIL%20PLANOS.pdf "Perfil dos Planos de Saúde")
+
+ - Perfil dos Beneficiários:
+   - Distribuição de Beneficiários por Idade / Sexo
+   - Distribuição de Beneficiários por Sexo
+   - Distribuição de Beneficiários por UF
+   - Distribuição dos Tipos de Beneficiários
+ 
+ - Distribuição dos Planos de Saúde:
+   - Filtro da Razão Social
+   - Gráfico de Novas Contrações e Cancelamento por Ano
+   - Distribuição de Beneficiários por UF
 
  demais visualizações em construção 🏗️ ...
 
