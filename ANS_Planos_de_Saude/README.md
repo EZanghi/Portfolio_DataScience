@@ -14,26 +14,24 @@
 ---
 
 ## Conteúdo:
- - Perfil dos Planos de Saúde: 
-   - Total de titulares
-   - Total de Planos
-   - Cadastro de novos planos por ano
-   - Qtd. Operadoras por Modalidade
-   - Razão Social das Operadoras
-
-![Perfil dos Planos de Saúde](https://github.com/EZanghi/Portfolio_DataScience/blob/main/ANS_Planos_de_Saude/PERFIL%20PLANOS.pdf "Perfil dos Planos de Saúde")
-
- - Perfil dos Beneficiários:
-   - Distribuição de Beneficiários por Idade / Sexo
-   - Distribuição de Beneficiários por Sexo
-   - Distribuição de Beneficiários por UF
-   - Distribuição dos Tipos de Beneficiários
- 
- - Distribuição dos Planos de Saúde:
+- Perfil dos Planos de Saúde: (<a href= https://github.com/EZanghi/Portfolio_DataScience/blob/main/ANS_Planos_de_Saude/PERFIL%20PLANOS.pdf> PERFIL PLANOS </a>)
+  - Total de titulares
+  - Total de Planos
+  - Cadastro de novos planos por ano
+  - Qtd. Operadoras por Modalidade
+  - Razão Social das Operadoras
+> 
+- Perfil dos Beneficiários: (<a href= https://github.com/EZanghi/Portfolio_DataScience/blob/main/ANS_Planos_de_Saude/PERFIL%20BENEF.pdf> PERFIL BENEF </a>)
+  - Distribuição de Beneficiários por Idade / Sexo
+  - Distribuição de Beneficiários por Sexo
+  - Distribuição de Beneficiários por UF
+  - Distribuição dos Tipos de Beneficiários
+>  
+- Distribuição dos Planos de Saúde: (<a href= https://github.com/EZanghi/Portfolio_DataScience/blob/main/ANS_Planos_de_Saude/DIST%20PLANOS.pdf> DIST PLANOS </a>)
    - Filtro da Razão Social
    - Gráfico de Novas Contrações e Cancelamento por Ano
    - Distribuição de Beneficiários por UF
-
+>
  demais visualizações em construção 🏗️ ...
 
 ---
@@ -45,9 +43,12 @@
 |benef_regiao_geog.zip|Dados de beneficários por região geográfica|https://dadosabertos.ans.gov.br/FTP/PDA/dados_de_beneficiarios_por_regiao_geografica/
 |sib_ativos.zip|Dados de Beneficiários por operadora|https://dadosabertos.ans.gov.br/FTP/PDA/dados_de_beneficiarios_por_operadora/
 |Relatorio_cadop.csv|Dados das operadoras de saúde que estão ativas|https://dadosabertos.ans.gov.br/FTP/PDA/operadoras_de_plano_de_saude_ativas
+|extract.ipynb|Código em python para download e extração dos dados utilizados| autoria própria
 
 
 ### Portal ANS
 https://dados.gov.br/dados/organizacoes/visualizar/agencia-nacional-de-saude-suplementar-ans
+
+
 
 
