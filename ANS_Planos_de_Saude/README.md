@@ -40,7 +40,6 @@
 
 |arquivo|conteúdo|fonte
 |---|---|---
-|benef_regiao_geog.zip|Dados de beneficários por região geográfica|https://dadosabertos.ans.gov.br/FTP/PDA/dados_de_beneficiarios_por_regiao_geografica/
 |sib_ativos.zip|Dados de Beneficiários por operadora|https://dadosabertos.ans.gov.br/FTP/PDA/dados_de_beneficiarios_por_operadora/
 |Relatorio_cadop.csv|Dados das operadoras de saúde que estão ativas|https://dadosabertos.ans.gov.br/FTP/PDA/operadoras_de_plano_de_saude_ativas
 |extract.ipynb|Código em python para download e extração dos dados utilizados| autoria própria
@@ -48,6 +47,14 @@
 
 ### Portal ANS
 https://dados.gov.br/dados/organizacoes/visualizar/agencia-nacional-de-saude-suplementar-ans
+
+## Dashboard disponível em: 
+
+*[Acesse o relatório aqui](https://app.powerbi.com/view?r=eyJrIjoiYmMwZTE5ODUtMmEzYi00Zjg4LWI5YTUtMDQ5OTgxM2JkMThmIiwidCI6ImNlODZiOTEzLTkyNzEtNDIxZi04OWUyLTQ4YTBjMGQ0NjQ1NiJ9)*
+
+<br>
+
+<iframe title="analise_plano_saude" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYmMwZTE5ODUtMmEzYi00Zjg4LWI5YTUtMDQ5OTgxM2JkMThmIiwidCI6ImNlODZiOTEzLTkyNzEtNDIxZi04OWUyLTQ4YTBjMGQ0NjQ1NiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
