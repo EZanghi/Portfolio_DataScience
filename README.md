@@ -20,5 +20,6 @@ Este é o meu portfólio com análises feitas por mim ou solicitadas em entrevis
 * Dashboards das principais caracterísitcas dos planos de saúde registrados na ANS.<br>
 [ANS_Planos_de_Saude](https://github.com/EZanghi/Portfolio_DataScience/tree/main/ANS_Planos_de_Saude)<br>
 
-  <a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" alt="PowerBI"/> </a> 
+  <a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" alt="PowerBI"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="python" /> </a>
 
